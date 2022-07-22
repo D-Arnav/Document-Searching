@@ -4,7 +4,7 @@ roll_numbers = ['2110080001', '2110080002', '2110080003', '2110080004', '2110080
 
 max_cgpa = 0.0
 names = []
-stream = 'Python Programs\\CGPA_docs\\'
+stream = '\\CGPA_docs\\'
 extension = '.docx'
 
 for roll_number in roll_numbers:
